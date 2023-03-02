@@ -11,7 +11,7 @@ function App() {
       <div>
         <p>Collection View</p>
         <div className='container' >
-          <div>Item A is : {collectiona} </div>
+          
           <div>Item B is : {collectionb} </div>
           <div>Item C is : {collectionc} </div>
         </div>
