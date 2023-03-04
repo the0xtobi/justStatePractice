@@ -3,11 +3,12 @@ import './App.css';
 
 function App() {
 
-  //define your states
+  // define your states
   const [collectiona, setCollectiona] = useState(0)
   const [collectionb, setCollectionb] = useState(0)
   const [collectionc, setCollectionc] = useState(0)
 
+  // function to reset 
   const handleReset = () =>{
     setCollectiona(0)
     setCollectionb(0)
