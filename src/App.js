@@ -8,7 +8,7 @@ function App() {
   const [collectionb, setCollectionb] = useState(0)
   const [collectionc, setCollectionc] = useState(0)
 
-  // function to reset 
+  // function to reset your state value to zero
   const handleReset = () =>{
     setCollectiona(0)
     setCollectionb(0)
