@@ -6,7 +6,7 @@ function App() {
   // define your states
   const [collectiona, setCollectiona] = useState(1)
   const [collectionb, setCollectionb] = useState(2)
-  const [collectionc, setCollectionc] = useState(0)
+  const [collectionc, setCollectionc] = useState(3)
 
   // function to reset your state value to zero
   const handleReset = () =>{
