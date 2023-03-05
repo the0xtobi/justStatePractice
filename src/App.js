@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 
   // define your states
-  const [collectiona, setCollectiona] = useState(0)
+  const [collectiona, setCollectiona] = useState(1)
   const [collectionb, setCollectionb] = useState(0)
   const [collectionc, setCollectionc] = useState(0)
 
